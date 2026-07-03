@@ -1,0 +1,8 @@
+{
+  "name": "The Last Signal",
+  "description": "Survive the night in an isolated watchtower while deciphering mysterious radio signals in this atmospheric psychological horror mystery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
